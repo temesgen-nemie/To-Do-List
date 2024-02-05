@@ -1,7 +1,7 @@
 /* Variables */
 :root {
 	--dark: #1b1c1d;
-	--blue: #2185d0;
+	--blue: hsl(206, 69%, 39%);
 	--green: #1ebc30;
 	--red: #db2828;
 	--white: #ffffff;
